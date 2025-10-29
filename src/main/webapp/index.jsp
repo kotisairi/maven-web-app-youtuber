@@ -130,7 +130,7 @@
   <h2>Learn Here.. Lead Anywhere..!!</h2>
 
   <a href="https://www.rrtechnosoft.in" class="cta-button">
-   Click Here To See "RR Technosoft Institute Details" 
+   Click Here To See "  VIVEKANADA FOUNDATION Institute Details" 
   </a>
 
   <div class="contact-info">
