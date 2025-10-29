@@ -122,7 +122,7 @@
 <body>
 
 <header>
-  <h1>Welcome to VIVEKANADA FOUNDATION Institute</h1>
+  <h1> Welcome to VIVEKANADA FOUNDATION Institute KPHB</h1>
   <h2>Multi-Cloud with DevOps Class</h2>
 </header>
 
