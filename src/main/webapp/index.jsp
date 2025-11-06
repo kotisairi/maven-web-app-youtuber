@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="VIVEKANANDA FOUNDATION KPHB - Empowering Students through Education, Ethics, and Excellence. Join our mission to build strong minds and strong values.">
 
-  <title>VIVEKANANDA FOUNDATION KPHB</title>
+  <title>VIVEKANANDA FOUNDATION KPHB HYDERABAD</title>
 
   <style>
     /* ===== GLOBAL STYLES ===== */
