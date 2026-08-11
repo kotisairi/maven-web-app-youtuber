@@ -1,0 +1,15 @@
+name: create sample workflow in github action 
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  checkout:
+    name: checkout from the repo
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout code from repo branch master
+        uses: actions/checkout@v6
