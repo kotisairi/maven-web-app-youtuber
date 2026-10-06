@@ -18,7 +18,7 @@ spec:
   spec: 
     containers:
     - name: koti-koti
-      image: koteswarararaosairi/kk:v6
+      image: koteswarararaosairi/cicdimage:v123
       imagePullPolicy: Always
       ports:
       - containerPort: 8080
@@ -28,7 +28,7 @@ kind: Service
 metadata:
  name: koti-service
 spec:
-  type: NodePort
+  type: LoadBalancer
   selector:
    app: koti-koti
   ports:
