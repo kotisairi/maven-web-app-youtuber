@@ -4,7 +4,7 @@ provider "aws" {
     region     = "ap-south-1"
 }
 
-resource "aws_instance" "example" {
+resource "aws_instance" "test1" {
     ami           = "ami-01a00762f46d584a1"
     instance_type = "t2.micro"
     subnet_id     = "subnet-0db9280c20ecfefe6"
@@ -12,7 +12,7 @@ resource "aws_instance" "example" {
     key_name      = "uhgfdetgrrt"
     
     tags = {
-        Name = "MyInstance"
+        Name = "test1"
     }
 }
 
