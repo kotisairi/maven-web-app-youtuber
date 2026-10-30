@@ -131,7 +131,7 @@
 <body>
 
   <header>
-    <h1>Welcome to VIVEKANANDA FOUNDATION KPHB</h1>
+    <h1>Welcome to VIVEKANANDA FOUNDATION KPHB HYDERABAD</h1>
     <h2>Empowering Students with Knowledge, Values, and Discipline</h2>
   </header>
 
